@@ -27,7 +27,7 @@ Any written docs or images made as part of this project are distributed under th
 
 #### I think this is really neat / confusing / interesting etc.
 
-We'd love to hear why. Tweet your questions to @healthhack using the tags: **#healthhackau** **#abstract**.
+We'd love to hear why. Tweet your questions to @healthhackau using the tags: **#healthhackau** **#abstract**.
 
 #### Do you collect personal information and what will you do with it?
 
