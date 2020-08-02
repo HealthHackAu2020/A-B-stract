@@ -43,10 +43,10 @@ This project was pitched as part of [HealthHack Online 2020](https://www.healthh
 
 **Team Smart Aunties**
 
-- Andy
+- [Andy](https://andyluu.com/)
 - Arshdeep Singh
 - Gergo Szabo
 - Hao Gao
 - Lachlan
 - [Michael Imelfort](https://www.linkedin.com/in/michael-imelfort-0aa22119/)
-- [Peggy Wei](https://www.peggywei.com/)
+- [Peggy Wei](https://www.linkedin.com/in/peggywei/)
