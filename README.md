@@ -47,6 +47,6 @@ This project was pitched as part of [HealthHack Online 2020](https://www.healthh
 - Arshdeep Singh
 - Gergo Szabo
 - Hao Gao
-- Lachlan
+- [Lachlan](https://www.linkedin.com/in/lachlan-christie-4ab9531b2/)
 - [Michael Imelfort](https://www.linkedin.com/in/michael-imelfort-0aa22119/)
 - [Peggy Wei](https://www.linkedin.com/in/peggywei/)
